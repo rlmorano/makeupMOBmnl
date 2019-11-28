@@ -1,0 +1,19 @@
+#brand-makeup {
+  background-color: #000000;
+}
+
+.school-logo {
+  width: 100%;
+  object-fit: cover;
+}
+
+#services {
+  background: url(../../assets/img/background-contactus.jpg) no-repeat;
+  background-size: cover;
+}
+
+#portfolio {
+  background: url(../../assets/img/background-contactus.jpg) no-repeat;
+  background-size: cover;
+}
+
